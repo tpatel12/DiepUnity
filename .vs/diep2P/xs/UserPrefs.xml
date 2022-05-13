@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CFB580DE-0BFF-A321-23B1-B7C995283699}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="31" Column="10" />
+      <File FileName="Assets/Gun.cs" Line="18" Column="12" />
+      <File FileName="Assets/Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/GunList.cs" Line="18" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="diep2P" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Player.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0a13fb9a-4229-4fb2-be84-d2544346b424" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
